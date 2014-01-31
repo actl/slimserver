@@ -1,4 +1,4 @@
-#!/opt/sdi/bin/perl
+#!/usr/bin/perl
 
 # Logitech Media Server Copyright (C) 2001-2009 Logitech.
 # This program is free software; you can redistribute it and/or
