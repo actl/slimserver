@@ -155,7 +155,7 @@ img#background {
 	left: 20px;
 	height: 40px;
 	width: 158px;
-	background: url(html/images/logitech_media_server.png) no-repeat;
+	background: url(html/images/squeezecenter.png) no-repeat;
 }
 
 #logitechLogo {
@@ -164,7 +164,7 @@ img#background {
 	right: 20px;
 	height: 40px;
 	width: 42px;
-	background: url(html/images/logitech.gif) no-repeat;
+	background-color: black;
 }
 
 #playerChooser {
